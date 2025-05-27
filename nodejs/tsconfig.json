@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"strict": true,
+		"noEmit": true,
+
+		"module": "NodeNext",
+		"target": "ESNext",
+
+		"allowImportingTsExtensions": true,
+		"resolveJsonModule": true,
+
+		"jsx": "react-jsx",
+	},
+}
